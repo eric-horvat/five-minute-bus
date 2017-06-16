@@ -1,0 +1,3 @@
+NXTBUS_API = 'XXXXXX'
+BUS_STOPS = [{'stopid': 3410, 'alias': 'civic', 'buses': [200]}]
+
