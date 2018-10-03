@@ -1,5 +1,5 @@
 # five-minute-bus
-This program is intended to display Canberra ACTION bus estimated times of arrival in the status bar. It expects you to use [bitbar](https://getbitbar.com/) to print to the status bar.
+This program is intended to display [Canberra ACTION bus](https://www.transport.act.gov.au/routes-and-timetables) estimated times of arrival in the status bar. It expects you to use [bitbar](https://getbitbar.com/) to print to the status bar.
 
 ![example image](https://raw.githubusercontent.com/eric-horvat/five-minute-bus/master/example/screenshot.png)
 ## Install
