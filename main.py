@@ -42,7 +42,7 @@ def display_bus_times(bus_stop, allowed_buses, special_text, color='cadetblue'):
 
 def main():
     for e in config.BUS_STOPS:
-	stopid = e['stopid']
+        stopid = e['stopid']
         alias = e['alias']
         buses = e['buses']
         display_bus_times(stopid, buses, alias)
