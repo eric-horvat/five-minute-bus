@@ -22,7 +22,7 @@ def display_bus_times(bus_stop, allowed_buses, special_text, color='cadetblue'):
         arrivals = nxtbus.bus_arrival_times(bus_stop)
     except Exception as e:
         print e
-        print 'failed to update | color=red'
+        print 'Failed to update | color=red'
         return
     if not arrivals:
         #print 'no buses soon | color=orange'
